@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import WelcomePopX from "./WelcomePopX";
-import CreatePopXAccount from "./CreatePopXAccount";
-import AccountSettings from "./AccountSettings";
-import Login from "./Login";
+import CreatePopXAccount from "./Components/CreatePopXAccount";
+import AccountSettings from "./Components/AccountSettings";
+import Login from "./Components/Login";
 
 function App() {
   return (

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./CreatePopXAccount.css";
+import "../Assets/Style/CreatePopXAccount.css";
 import { useNavigate } from "react-router-dom";
 
 const CreatePopXAccount = () => {

@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import "./WelcomePopX.css";
+import "./Assets/Style/WelcomePopX.css";
 
 const WelcomePopX = () => {
   const navigate = useNavigate();
